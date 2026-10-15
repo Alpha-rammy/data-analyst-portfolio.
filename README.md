@@ -7,7 +7,10 @@ As a Medical Doctor with a Master's in Public Health, I combine clinical experti
 
 This portfolio showcases my ability to work across the analytics lifecycle, from data preparation and validation to analysis, reporting, stakeholder recommendations, and information governance.
 
-🔹 MedInsight - Medication Utilisation & Cost Analytics
+🔹 [MedInsight - Medication Utilisation & Cost Analytics]
+    https://github.com/Alpha-rammy/MedInsight-Medication-Analytics)
+    
+
  Tools: Power BI, Power Query, DAX
  An end-to-end business intelligence project examining medication utilisation, prescription costs, and variation across patient groups and time periods, with interactive dashboards and stakeholder-focused reporting.
 
